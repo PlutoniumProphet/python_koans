@@ -1,2 +1,2 @@
 # python_koans
-Ruby Koans ported to Python 3
+Ruby Koans ported to Python 3 - completed. 
